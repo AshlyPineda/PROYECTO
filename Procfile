@@ -1,1 +1,1 @@
-we: node .
+web: node .
