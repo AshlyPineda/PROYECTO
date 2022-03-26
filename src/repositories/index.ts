@@ -1,1 +1,1 @@
-export * from './usuario.repository';
+export * from './producto.repository';
